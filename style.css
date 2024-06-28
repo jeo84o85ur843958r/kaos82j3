@@ -104,6 +104,10 @@ a:hover{
 	background-color: yellow;
 }
 
+.navbar-toggler{
+	display: none !important;
+}
+
 @media (max-width: 520px){ 
 	#contacto{
 		padding: 20px;
